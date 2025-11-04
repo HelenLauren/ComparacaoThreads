@@ -8,7 +8,13 @@ Foram feitos vários testes, lembrei de tirar print depois que fiz o relatorio e
 
 **teste com 15 threads N:M**
 
-<img width="362" height="222" alt="image" src="https://github.com/user-attachments/assets/fb6beb34-d90d-46a3-ae01-7534a01214cd" />
+<img width="362" height="202" alt="image" src="https://github.com/user-attachments/assets/fb6beb34-d90d-46a3-ae01-7534a01214cd" />
+
+---
+
+**teste com menos tarefas em N:M**
+
+<img width="336" height="299" alt="image" src="https://github.com/user-attachments/assets/71d77720-a564-4030-aec2-730737857327" />
 
 ---
 
