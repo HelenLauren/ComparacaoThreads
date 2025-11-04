@@ -20,10 +20,9 @@ No código:
 
 ---
 
-Mesmo após aumentar o número de threads do modelo N:M para 15 continuou inferior ao modelo 1:1, comprovando que o revezamento interno das threads e o agendamento dentro do pool ainda causam lentidão no processamento.
+Mesmo após aumentar o número de threads do modelo N:M para 15 continuou inferior ao modelo 1:1, comprovando que o revezamento interno das threads e o agendamento dentro do pool são o que causam lentidão no processamento. Se diminuirmos a quantidade de tarefas para 10, 100, 200 e 300 o seu desempenho melhora, como deveria, mas ainda sim com limitação estrutural  (testes no arquivo [Prints.md](https://github.com/HelenLauren/ComparacaoThreads/blob/main/Prints.md)).
 
 <img width="703" height="378" alt="image" src="https://github.com/user-attachments/assets/1ea946da-8eca-4a24-ada4-03fdb67d216a" />
-
 
 ---
 
