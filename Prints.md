@@ -16,10 +16,16 @@ Foram feitos vários testes, lembrei de tirar print depois que fiz o relatorio e
 
 <img width="336" height="299" alt="image" src="https://github.com/user-attachments/assets/71d77720-a564-4030-aec2-730737857327" />
 
+<img width="336" height="299" alt="image" src="https://github.com/user-attachments/assets/383a87f9-1787-48a9-b8e0-8c00f64c5486" />
+
 ---
 
 **teste com modelo 1:1 claramente mais eficiente**
 
 
-<img width="524" height="318" alt="image" src="https://github.com/user-attachments/assets/bc808750-e941-4151-9b28-32b6b3d910c9" />
+<img width="324" height="218" alt="image" src="https://github.com/user-attachments/assets/bc808750-e941-4151-9b28-32b6b3d910c9" />
+
+
+<img width="324" height="218" alt="image" src="https://github.com/user-attachments/assets/37f14c78-d4bb-49d1-bebd-53d6761d4ba9" />
+
 
