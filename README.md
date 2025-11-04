@@ -23,3 +23,11 @@ No código:
 Mesmo após aumentar o número de threads do modelo N:M para 15 continuou inferior ao modelo 1:1, comprovando que o revezamento interno das threads e o agendamento dentro do pool ainda causam lentidão no processamento.
 
 <img width="703" height="378" alt="image" src="https://github.com/user-attachments/assets/1ea946da-8eca-4a24-ada4-03fdb67d216a" />
+
+
+---
+
+Resumindo, o modelo M:N é mais eficiente quando há poucas tarefas pois reutiliza threads e consome menos recursos.
+Já o modelo 1:1 e mais eficiente em cenários com muitas tarefas, executando tudo em paralelo real. Porém, ele exige mais memória e processamento, podendo sobrecarregar o sistema.
+
+Assim, o M:N prioriza eficiência e estabilidade, enquanto o 1:1 privilegia desempenho bruto.
